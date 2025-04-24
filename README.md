@@ -1,6 +1,6 @@
 # Simulador de histórico de navegação
 
-Este projeto simula o gerenciamento de um histórico de navegação de um navegador utilizando o conceito de pilha (stack). A ideia principal é simular o comportamento do botão "voltar", permitindo que o usuário navegue entre páginas e retorne às anteriores. Além do que foi proposto, me desafiei a fazer também uma forma de limpar o histórico, e torná-lo **interativo** permitindo ao usuário digitar as URLs, e ter controle de querer ver o histórico, limpá-lo, voltar a página, ver qual a pagina atual, e até uma brincadeirinha que encerrar o navegador, que na verdade, encerra o loop `while`.
+Este projeto simula o gerenciamento de um histórico de navegação de um navegador utilizando o conceito de pilha (stack). A ideia principal é simular o comportamento do botão "voltar", permitindo que o usuário navegue entre páginas e retorne às anteriores. Além do que foi proposto, me desafiei a fazer também uma forma de limpar o histórico, e torná-lo ***interativo*** permitindo ao usuário digitar as URLs, e ter controle de querer ver o histórico, limpá-lo, voltar a página, ver qual a pagina atual, e até uma brincadeirinha que encerrar o navegador, que na verdade, encerra o loop `while`.
 
 ---
 
